@@ -1,4 +1,4 @@
 # loveShare
 
 # Liveview
-## (loveShare)[https://loveshare.netlify.app]
+## [loveShare](https://loveshare.netlify.app)
