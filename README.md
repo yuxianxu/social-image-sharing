@@ -4,6 +4,7 @@
 # Features
 - Advanced Social Media app
 - Google Authentication
+- Sanity CMS platform
 - Create, edit, delete and save posts
 - Comment on other people's posts
 - Search and filter images
