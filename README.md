@@ -19,17 +19,17 @@
 
 ![Mobile view](https://res.cloudinary.com/zonama/image/upload/v1645407475/Screen_Shot_2022-02-20_at_5.37.27_PM_swp02i.png)
 
-### Search products by category
+### View by category
 
-![Search products by category](https://res.cloudinary.com/zonama/image/upload/v1645407077/Screen_Shot_2022-02-20_at_5.16.18_PM_uq9eci.png)
+![side bar category](https://github.com/yuxianxu/social-image-sharing/blob/bb0d1b9781f4ac1ab7ee03f96788d8c115d5965f/screeshots/Screen%20Shot%202022-04-18%20at%208.29.06%20PM.png)
 
-### Footer
+### Search anything
 
-![Footer](https://res.cloudinary.com/zonama/image/upload/v1645407077/Screen_Shot_2022-02-20_at_5.17.19_PM_dalhwt.png)
+![Perfect match and partial match](https://github.com/yuxianxu/social-image-sharing/blob/bb0d1b9781f4ac1ab7ee03f96788d8c115d5965f/screeshots/Screen%20Shot%202022-04-18%20at%208.28.22%20PM.png)
 
 ### Personal Account
 
-![Check saved or created images](screeshots/Screen Shot 2022-04-18 at 8.27.52 PM.png)
+![Check saved or created images](https://github.com/yuxianxu/social-image-sharing/blob/e3b3044bd77f8c95a15801b1832ca15fc3527354/screeshots/Screen%20Shot%202022-04-18%20at%208.27.52%20PM.png)
 
 # For more
 - Created this app with the youTube channel [JavaScript Mastery](https://youtu.be/1RHDhtbqo94)
