@@ -4,7 +4,7 @@
 # Features
 - Advanced Social Media app
 - Google Authentication
-- Sanity CMS platform
+- Sanity headless CMS (Content Management System) platform
 - Create, edit, delete and save posts
 - Comments on other people's posts
 - Search and filter images
@@ -23,6 +23,10 @@
 
 ### Mobile view - sidebar
 ![Sidebar](https://github.com/yuxianxu/social-image-sharing/blob/c9a4a506f730c14d3b4d0510926f60a3bf0829db/screeshots/Screen%20Shot%202022-04-18%20at%208.32.57%20PM.png)
+
+## Sanity CMS platform
+
+![sanity](https://github.com/yuxianxu/social-image-sharing/blob/34d46a7325ff62236a8e2731292bfae94ef4f7e0/screeshots/Screen%20Shot%202022-04-20%20at%2011.41.51%20AM.png)
 
 ## Hover effects - download, save, delete,and redirect url
 ![Card](https://github.com/yuxianxu/social-image-sharing/blob/main/screeshots/Screen%20Shot%202022-04-18%20at%208.31.13%20PM.png)
