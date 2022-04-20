@@ -1,7 +1,10 @@
-# Liveview
-## [loveShare](https://loveshare.netlify.app)
+## Liveview
+### [loveShare](https://loveshare.netlify.app)
 
-# Features
+## About
+### LoveShare is created by React Js and Sanity CMS platform
+
+## Features
 - Advanced Social Media app
 - Google Authentication
 - Sanity headless CMS (Content Management System) platform
@@ -11,7 +14,7 @@
 - Masonary layout
 - And much more
 
-# ScreenShots
+## ScreenShots
 
 ## homepage
 
