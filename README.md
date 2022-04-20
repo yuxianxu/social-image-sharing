@@ -18,6 +18,7 @@
 ## Mobile view - responsive design
 
 ![Mobile](https://github.com/yuxianxu/social-image-sharing/blob/feceab09c38ebb5a469553cc4bfd5b751ad15092/screeshots/Screen%20Shot%202022-04-18%20at%208.32.41%20PM.png)
+![Sidebar](https://github.com/yuxianxu/social-image-sharing/blob/c9a4a506f730c14d3b4d0510926f60a3bf0829db/screeshots/Screen%20Shot%202022-04-18%20at%208.32.57%20PM.png)
 
 ## Hover effects - download, save, delete,and redirect url
 ![Card](https://github.com/yuxianxu/social-image-sharing/blob/main/screeshots/Screen%20Shot%202022-04-18%20at%208.31.13%20PM.png)
