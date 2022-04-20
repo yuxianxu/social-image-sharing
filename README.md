@@ -15,6 +15,10 @@
 
 ![Homepage](https://res.cloudinary.com/zonama/image/upload/v1645407077/Screen_Shot_2022-02-20_at_5.15.10_PM_dzdevj.png)
 
+## Mobile view - responsive design
+
+![Mobile](https://github.com/yuxianxu/social-image-sharing/blob/feceab09c38ebb5a469553cc4bfd5b751ad15092/screeshots/Screen%20Shot%202022-04-18%20at%208.32.41%20PM.png)
+
 ## Hover effects - download, save, delete,and redirect url
 ![Card](https://github.com/yuxianxu/social-image-sharing/blob/main/screeshots/Screen%20Shot%202022-04-18%20at%208.31.13%20PM.png)
 
@@ -31,8 +35,10 @@
 ![Perfect match and partial match](https://github.com/yuxianxu/social-image-sharing/blob/bb0d1b9781f4ac1ab7ee03f96788d8c115d5965f/screeshots/Screen%20Shot%202022-04-18%20at%208.28.22%20PM.png)
 
 ## Personal Account
-
+### Check created images
 ![Check created images](https://github.com/yuxianxu/social-image-sharing/blob/e3b3044bd77f8c95a15801b1832ca15fc3527354/screeshots/Screen%20Shot%202022-04-18%20at%208.27.52%20PM.png)
+
+### Check saved images
 ![Check saved images](https://github.com/yuxianxu/social-image-sharing/blob/e6bbe02654c239224c6408fa005847c0e117babf/screeshots/Screen%20Shot%202022-04-18%20at%208.31.40%20PM.png)
 
 # For more
