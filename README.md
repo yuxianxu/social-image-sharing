@@ -52,4 +52,5 @@
 ![Check saved images](https://github.com/yuxianxu/social-image-sharing/blob/e6bbe02654c239224c6408fa005847c0e117babf/screeshots/Screen%20Shot%202022-04-18%20at%208.31.40%20PM.png)
 
 # For more
-- Created this app following with the youTube channel [JavaScript Mastery](https://youtu.be/1RHDhtbqo94)
+- I Created this app following with the youTube channel [JavaScript Mastery](https://youtu.be/1RHDhtbqo94)
+- Deployed on netlify - npm run build, then upload the build file to netlify
