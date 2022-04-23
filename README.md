@@ -12,7 +12,6 @@
 - Comments on other people's posts
 - Search and filter images
 - Masonary layout
-- And much more
 
 ## ScreenShots
 
